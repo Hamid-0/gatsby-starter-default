@@ -7,8 +7,6 @@ export default function Navbar() {
         <Link to="/">Home</Link>
         <Link to="/page-2">Page 2</Link>
         <Link to="/using-typescript">Using Type Script</Link>
-        <Link to="/using-ssr">Using SSR</Link>
-        <Link to="/using-dsg">Using DSG</Link>
 
         </nav>
             
