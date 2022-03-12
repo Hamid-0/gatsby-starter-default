@@ -605,8 +605,14 @@ nav{
   border-bottom: 1px solid #eaeaea;
 }
 nav a{
+  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
+    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
   color: #333;
   text-decoration: none;
+  font-size: 1.2rem;
+  margin-left: 1rem;
+  margin-right: 1rem;
+
 }
 nav a:hover{
   color: #666;
@@ -618,15 +624,5 @@ nav a.active{
 nav a.active:hover{
   color: #666;
 }
-nav a.active:after{
-  content: "";
-  display: block;
-  width: 100%;
-  height: 2px;
-  background: #333;
-  margin-top: 0.5rem;
-}
-nav a.active:hover:after{
-  background: #666;
-}
+
 
