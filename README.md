@@ -7,3 +7,7 @@
 - Created Navbar.js with all appropiate links
 
 - Added Navbar.js to layout.js so all pages include the navbar
+
+## Link
+
+<https://hamidabolhassani-sfl.netlify.app/>
